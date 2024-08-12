@@ -1,3 +1,3 @@
 # SudokuSolver
 
-sudoko gamer solver
+sudoku gamer solver
